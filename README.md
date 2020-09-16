@@ -2,7 +2,7 @@
 
 This script works with all phones with MIUI 11 / 10
 
-##This script is personally tested safe by my Note 9 Pro Max
+## This script is personally tested safe by my Note 9 Pro Max
 
 This script is going to de-bloatware you Note 9 (Pro/Max) by removing / disabling MIUI 11 spy &amp; ads apps &amp; packages.
 
@@ -37,5 +37,5 @@ Google Messages : Very Good messageing app.
 
 https://drive.google.com/drive/folders/1rFhJAbffItHMuxwRzOQkfdoXUsNRfYZT?usp=sharing
 
-
+Have Fun.
 
