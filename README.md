@@ -19,7 +19,8 @@ You will see a device :
 Now Close the cmd.exe
 
 6) Now Run final_miui_uninstaller_script.bat Normally (Or Administrator Mode)
-You will see some errors & sucessfull commands. Errors are OK.
+You will see some errors & sucessfull commands. 
+Errors are OK.
 
 #Reboot your Phone.
 
