@@ -1,4 +1,4 @@
-# Xiaomi Note 9 (Pro / Pro Max) Remove Bloatware / Ads / SPY App Packages
+# Xiaomi Note 9 (Pro / Pro Max) (Any MIUI 11 / 10 Phone) Remove Bloatware / Ads / SPY App Packages
 
 ### This script works with all phones with MIUI 11 / 10
 
