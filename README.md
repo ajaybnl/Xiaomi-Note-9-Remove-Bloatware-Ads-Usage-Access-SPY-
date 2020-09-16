@@ -4,6 +4,8 @@
 
 #### This script is going to de-bloatware you Note 9 (Pro/Max) by removing / disabling MIUI 11 spy &amp; ads apps &amp; packages.
 
+
+
 ## Installation : 
 ### 1) Install ADB in c:\adb Folder 
 
