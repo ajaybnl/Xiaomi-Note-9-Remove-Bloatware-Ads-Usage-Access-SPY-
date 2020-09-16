@@ -19,9 +19,9 @@
 
 *(Help Tutorial : https://www.xda-developers.com/adb-fastboot-any-directory-windows-linux/ )*
 
-### 4) Attach mobile with Usb Debugging enabled.
+### 4) Attach mobile to PC with Usb Debugging enabled
 
-### 5) Run Cmd.exe and test this command "adb devices" without quotes.
+### 5) Run Cmd.exe and test this command "adb devices" without quotes
 
 *You will see a device :*
 
@@ -31,9 +31,9 @@
 
 ### 6) Now Run final_miui_uninstaller_script.bat Normally (Or Administrator Mode)
 
-*You will see some errors & sucessfull commands.*
+*You will see some errors & sucessfull commands*
 
-*Errors are OK.*
+*Errors are OK*
 
 ### 7) Reboot your Phone.
 
@@ -46,9 +46,9 @@ Quickpic : Alternative Fast Gallery
 Tone Changer : Set Ringtones & Notification Ringtones
 
 Google Keep : Notes (Sync to Google Account)
-and More.
+and More
 
-Google Messages : Very Good messageing app.
+Google Messages : Very Good messageing app
 
 
 ## Download Apps directly : 
