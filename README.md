@@ -2,7 +2,7 @@
 
 *This script is personally tested safe by my Note 9 Pro Max*
 
-####BUGS I Found:
+#### BUGS I Found:
 *Bluetooth Audio Volume Low (Not Fixed)
 
 #### This script is going to de-bloatware you Note 9 (Pro/Max) by removing / disabling MIUI 11 spy &amp; ads apps &amp; packages.
